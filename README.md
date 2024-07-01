@@ -2,6 +2,7 @@
 
 [Questions for the Interviewer(s)](https://github.com/svanhemert00/UMG-Commercial-Data-Analyst/blob/main/interview_questions.md)
 
+- [Resume](https://github.com/svanhemert00/UMG-Commercial-Data-Analyst/blob/main/Sebastian_Van_Hemert-Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/sebastianvanhemert)
 - Spotifind Your Sound: 
   - [Web App](https://spotifind.streamlit.app/)
