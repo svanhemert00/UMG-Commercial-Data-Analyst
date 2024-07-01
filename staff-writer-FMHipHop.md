@@ -1,0 +1,22 @@
+# Staff Writer @ [FMHipHop](https://fmhiphop.com/)
+
+During my junior year amidst the challenges of Covid-19, I interned with FMHipHop, an online magazine, where I authored and published approximately 20 articles. This experience not only allowed me to delve into topics I am passionate about but also provided me with valuable opportunities, such as interviewing Fernanda Arcay, General Manager at NEON16. It was an enriching experience where I honed my skills in SEO by utilizing tools like the Yoast SEO plug-in for WordPress and free online SEO checkers for keyword research. Additionally, I gained practical insights into blog writing, including mastering outbound and inbound linking strategies, URL shortening, meta description writing, managing WordPress slugs, and embedding multimedia content.
+
+- [#FMSpotlight: NEON16’s Fernanda Arcay](https://fmhiphop.com/neon16-fernanda-arcay/)
+- [French Montana feat. Pop Smoke “Double G” (Listen)](https://fmhiphop.com/french-montana-double-g-pop-smoke/)
+- [#FMSpotlight: Lil Tjay “Losses” (Video)](https://fmhiphop.com/lil-tjay-losses/)
+- [#FMSpotlight: Arcangel – “Los Favoritos 2” (Listen)](https://fmhiphop.com/arcangel-los-favoritos-2/)
+- [https://fmhiphop.com/kanye-on-the-joe-rogan-experience-jre/](https://fmhiphop.com/kanye-on-the-joe-rogan-experience-jre/)
+- [#FMSpotlight: Pops Smoke feat. Lil Tjay “Mood Swings” (Official Music Video)](https://fmhiphop.com/mood-swings-official-video/)
+- [#FMSports: Lakers Win 2020 NBA Champions](https://fmhiphop.com/lakers-2020-nba-champions/)
+- [#FMSports: NBA Finals – Game 3 (RECAP)](https://fmhiphop.com/fmsports-nba-finals-game-3-recap/)
+- [#FMFashion: Bad Bunny Teams Up With Crocs](https://fmhiphop.com/bad-bunny-crocs/)
+- [#FMSpotlight: Polo G – “Epidemic”](https://fmhiphop.com/fmspotlight-polo-g-epidemic/)
+- [#FMSports: Lakers vs. Nuggets for Game Four of the Western Conference Finals – RECAP](https://fmhiphop.com/fmsports-lakers-vs-nuggets-2/)
+- [Daddy Yankee becomes the “Most Expensive Man in Latin Music”](https://fmhiphop.com/daddy-yankee/)
+- [#FMSports: Lakers vs. Nuggets for Game Two of the Western Conference Finals – RECAP](https://fmhiphop.com/fmsports-lakers-vs-nuggets/)
+- [Bad Bunny Announces Virtual Concert!](https://fmhiphop.com/bad-bunny-in-concert/)
+- [#FMSpotlight: Amenazzy – “Jalapeño Remix” (Listen)](https://fmhiphop.com/jalapeno-remix/)
+- [#FMSpotlight: Feid – “BAHÍA DUCATI” (Listen)](https://fmhiphop.com/feid-bahia-ducati/)
+- [6ix9ine Calls Out Anuel AA](https://fmhiphop.com/6ix9ine-anuel-aa/)
+- [#FMSpotlight: Ozuna – “ENOC” (Listen)](https://fmhiphop.com/ozuna-enoc/)
