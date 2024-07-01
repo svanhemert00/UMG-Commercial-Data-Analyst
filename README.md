@@ -6,5 +6,6 @@
 - Spotifind Your Sound: 
   - [Web App](https://spotifind.streamlit.app/)
   - [Deployment Repo](https://github.com/svanhemert00/spotifindyoursound)
-  - [Project Repo]()
+  - [Project Repo](https://github.com/LMU-MSBA/Finding-Talent-Improving-Spotify-New-Artist-Recommendations/tree/main)
+  - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7190261842559094784/)
 - [Staff Writer @ FMHipHop](https://github.com/svanhemert00/UMG-Commercial-Data-Analyst/blob/main/staff-writer-FMHipHop.md)
