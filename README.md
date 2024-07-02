@@ -18,4 +18,4 @@ Discover my contributions and insights as a Staff Writer at FMHipHop
   - Course Completion Page: [Course Details](https://www.datacamp.com/completed/statement-of-accomplishment/course/374a0709dae3a9643d542dda01b0a25ae0f695ec)
 
 ## Questions for the Interviewer(s)
-Prepare for our discussion with these insightful questions: [View Questions]https://github.com/svanhemert00/UMG-Commercial-Data-Analyst/blob/main/interview_questions.md)
+Prepare for our discussion with these insightful questions: [View Questions](https://github.com/svanhemert00/UMG-Commercial-Data-Analyst/blob/main/interview_questions.md)
