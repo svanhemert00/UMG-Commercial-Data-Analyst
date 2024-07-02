@@ -10,7 +10,7 @@
   - LinkedIn Post: [Read LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7190261842559094784/)
 
 ## Staff Writer @ FMHipHop
-Discover my contributions and insights as a staff writer at FMHipHop
+Discover my contributions and insights as a Staff Writer at FMHipHop
 - Articles: [Open Links to my Articles](https://github.com/svanhemert00/UMG-Commercial-Data-Analyst/blob/main/staff-writer-FMHipHop.md)
 
 ## DataCamp - Introduction to BigQuery
